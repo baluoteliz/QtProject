@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>quicktest1.qml</file>
+        <file>../resource/quicktest/background.png</file>
+        <file>../resource/quicktest/pinwheel.png</file>
+        <file>redgreenlignt.qml</file>
+        <file>mvctest.qml</file>
+        <file>mycanvans.qml</file>
+        <file>ColorSquare.qml</file>
+        <file>myshader.qml</file>
+        <file>../resource/quicktest/curtain.png</file>
+        <file>mycadaques.qml</file>
+        <file>CurtainEffect.qml</file>
+        <file>myblur.qml</file>
+        <file>videocamera.qml</file>
+        <file>../resource/quicktest/01.mp4</file>
+        <file>mynetwork.qml</file>
+        <file>myJsConsole.qml</file>
+    </qresource>
+</RCC>

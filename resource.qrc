@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../resource/quicktest/background.png</file>
+        <file>../resource/quicktest/pinwheel.png</file>
+    </qresource>
+</RCC>
