@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
     QApplication app(argc,argv);
 
     QQuickView* view = new QQuickView;
-    view->setSource(QUrl("qrc:/mynetwork.qml"));
+    view->setSource(QUrl("qrc:/myJsConsole.qml"));
     view->setResizeMode(QQuickView::SizeRootObjectToView);
     view->show();
     CommonListModel* listModel = new CommonListModel(view);

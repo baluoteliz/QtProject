@@ -16,5 +16,6 @@
         <file>../resource/quicktest/01.mp4</file>
         <file>mynetwork.qml</file>
         <file>myJsConsole.qml</file>
+        <file>myjscall.qml</file>
     </qresource>
 </RCC>
