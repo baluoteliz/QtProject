@@ -37,6 +37,10 @@ int main(int argc, char *argv[])
     view->setHeight(400);
     return app.exec();
 
+<<<<<<< HEAD
     //test 11
+=======
+    //test22
+>>>>>>> 06d108d (update test2)
 #endif
 }
