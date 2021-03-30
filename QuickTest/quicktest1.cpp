@@ -36,5 +36,7 @@ int main(int argc, char *argv[])
     view->setWidth(600);
     view->setHeight(400);
     return app.exec();
+
+    //test 11
 #endif
 }
