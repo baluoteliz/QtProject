@@ -40,11 +40,8 @@ int main(int argc, char *argv[])
     //test 11
     //test22
     //test 44
-<<<<<<< HEAD
     //test55
-=======
 
     //test1  测试信息
->>>>>>> test1
 #endif
 }
