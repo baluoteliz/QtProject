@@ -48,5 +48,6 @@ int main(int argc, char *argv[])
     //test1  测试信息2
     //test1  测试信息3
     //test2  测试信息1
+    //test2  测试信息2
 #endif
 }
